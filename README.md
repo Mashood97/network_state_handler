@@ -17,12 +17,12 @@ A simple friendly network state handler to handle states of a request as it's in
   ```
  import 'package:network_state_handler/network_state_handler.dart'
 
+```
 
 # 🎮 Code Usage
  How to use it? It's friendly and easy to work with network_state_handler, checkout inside example folder to understand how it works. 
 
-```dart
-
+```
 import 'package:flutter/material.dart';
 import 'package:network_state_handler/network_state_handler.dart';
 import 'package:networking_freezed_dio/repos/api_repo.dart';
