@@ -1,7 +1,7 @@
 name: network_state_handler
 description: A simple friendly network state handler to handle states of a request as it's in a initial, loading, loaded or an error. You can use it with any of your favourite package either it's http or dio.
 version: 0.0.1
-homepage:
+homepage: https://github.com/Mashood97/network_state_handler
 
 environment:
   sdk: ">=2.17.3 <3.0.0"
