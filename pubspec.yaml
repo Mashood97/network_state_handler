@@ -1,5 +1,5 @@
 name: network_state_handler
-description: A new Flutter package project.
+description: A simple friendly network state handler to handle states of a request as it's in a initial, loading, loaded or an error. You can use it with any of your favourite package either it's http or dio.
 version: 0.0.1
 homepage:
 
@@ -10,14 +10,14 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  dio:
-  freezed:
+  freezed: ^2.0.3+1
+  dio: ^4.0.6
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
   flutter_lints: ^2.0.0
-  build_runner:
+  build_runner: ^2.1.11
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec

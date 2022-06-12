@@ -1,10 +1,6 @@
 
 A simple friendly network state handler to handle states of a request as it's in a initial, loading, loaded or an error. You can use it with any of your favourite package either it's http or dio.
 
-## Features
-
-TODO: List what your package can do. Maybe include images, gifs, or videos.
-
 # 🎖 Installing
 
 1) First goto your pubspec.yaml file and add dependency:
