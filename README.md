@@ -5,7 +5,7 @@ A simple friendly network state handler to handle states of a request as it's in
 
 1) First goto your pubspec.yaml file and add dependency:
    ```
-   network_state_handler: ^0.0.1
+   network_state_handler: ^0.0.2
    ```
 2) run flutter pub get to update the packages dependencies.
 
@@ -14,12 +14,13 @@ A simple friendly network state handler to handle states of a request as it's in
 # ⚡️ Import
 3) In your code, you can use it like this:
   first import the package:
-  ```
- import 'package:network_state_handler/network_state_handler.dart'
 
+```
+ import 'package:network_state_handler/network_state_handler.dart'
 ```
 
 # 🎮 Code Usage
+
  How to use it? It's friendly and easy to work with network_state_handler, checkout inside example folder to understand how it works. 
 
 ```
